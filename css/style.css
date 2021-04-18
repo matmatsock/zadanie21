@@ -1,10 +1,11 @@
 p{
     background-color: red;
-    width: 100px; height: 100px;
+    width: 100px;
+    height: 100px;
 }
 .blue{
     background-color: blue;
 }
-#ghost{
+.ghost{
     opacity: 0.2;
 }
